@@ -1,4 +1,4 @@
-# COMP4330 Whisper MCE: LoRA Fine-Tuning for Mixed-Language Speech Recognition
+# COMP4330 Whisper MCE: LoRA and QLoRA Fine-Tuning for Mixed-Language Speech Recognition
 
 ## 📖 Overview
 This repository contains the code and results for our COMP4330 project, which focuses on fine-tuning the `openai/whisper-small` model for mixed-language (Cantonese-English) speech recognition using the **MCE (Mixed Cantonese-English) Dataset**. 
